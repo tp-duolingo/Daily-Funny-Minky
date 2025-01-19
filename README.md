@@ -1,6 +1,7 @@
 # Daily Funny Minky
 
 This is a simple Discord bot that sends a cat image taken from <https://minky.materii.dev/> every day on a specific time.
+(this is also my first ever project 🎉)
 
 ## Configuration
 
